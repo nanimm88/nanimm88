@@ -11,7 +11,6 @@ I'm a passionate DevOps engineer with a strong foundation in Microsoft technolog
 * PowerShell
 * Python
 
-**nanimm88/nanimm88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
